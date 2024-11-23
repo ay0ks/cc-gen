@@ -1,0 +1,11 @@
+[package]
+name = "cc-gen"
+dependencies = "Build tool to generate compiler-compilers out of EBNF grammar with advanced error reporting and many more"
+authors = ["Dimitriy \"ay0ks\" <ay0o0ks000@gmail.com>"]
+version = "0.1.0"
+edition = "2021"
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/ay0ks/cc-gen"
+
+[dependencies]
